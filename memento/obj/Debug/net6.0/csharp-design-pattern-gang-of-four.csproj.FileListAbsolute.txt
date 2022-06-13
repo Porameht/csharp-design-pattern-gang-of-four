@@ -1,0 +1,17 @@
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\bin\Debug\net6.0\csharp-design-pattern-gang-of-four.exe
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\bin\Debug\net6.0\csharp-design-pattern-gang-of-four.deps.json
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\bin\Debug\net6.0\csharp-design-pattern-gang-of-four.runtimeconfig.json
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\bin\Debug\net6.0\csharp-design-pattern-gang-of-four.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\bin\Debug\net6.0\csharp-design-pattern-gang-of-four.pdb
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\obj\Debug\net6.0\csharp-design-pattern-gang-of-four.csproj.AssemblyReference.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\obj\Debug\net6.0\csharp-design-pattern-gang-of-four.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\obj\Debug\net6.0\csharp-design-pattern-gang-of-four.AssemblyInfoInputs.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\obj\Debug\net6.0\csharp-design-pattern-gang-of-four.AssemblyInfo.cs
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\obj\Debug\net6.0\csharp-design-pattern-gang-of-four.csproj.CoreCompileInputs.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\obj\Debug\net6.0\csharp-design-pattern-gang-of-four.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\obj\Debug\net6.0\refint\csharp-design-pattern-gang-of-four.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\obj\Debug\net6.0\csharp-design-pattern-gang-of-four.pdb
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\obj\Debug\net6.0\csharp-design-pattern-gang-of-four.genruntimeconfig.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\obj\Debug\net6.0\ref\csharp-design-pattern-gang-of-four.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\obj\Debug\net6.0\csharp-design-pattern-gang-of-four.csproj.CopyComplete

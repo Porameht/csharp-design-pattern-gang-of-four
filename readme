@@ -1,0 +1,5 @@
+1. C# Design Patterns : Memento Pattern
+    - Undo Redo Pattern
+    - dotnet add package newtonsoft.json
+    - caretaker.cs same state manager in memento
+

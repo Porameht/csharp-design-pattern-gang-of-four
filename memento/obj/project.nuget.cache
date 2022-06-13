@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EnIBoBtVxrRY462qCrp+eoih0S9PDcBN4R+Bqe2zDgBGV8O99EziOyKkFwlXOE71KOE0dxpIoGZDOK1IqYXzyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\poram\\Documents\\programming\\csharp-design-pattern-gang-of-four\\csharp-design-pattern-gang-of-four.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\poram\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
