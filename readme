@@ -4,4 +4,7 @@
     - caretaker.cs same state manager in memento
 
 2. C# Design Patterns : State Pattern
-    - change state of
+    - change state of object follow status
+    - open for extension
+    - close for modification
+    
