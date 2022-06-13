@@ -3,3 +3,5 @@
     - dotnet add package newtonsoft.json
     - caretaker.cs same state manager in memento
 
+2. C# Design Patterns : State Pattern
+    - change state of
