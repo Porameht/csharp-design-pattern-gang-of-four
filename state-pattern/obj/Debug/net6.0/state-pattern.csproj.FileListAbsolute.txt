@@ -1,0 +1,15 @@
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\bin\Debug\net6.0\state-pattern.exe
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\bin\Debug\net6.0\state-pattern.deps.json
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\bin\Debug\net6.0\state-pattern.runtimeconfig.json
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\bin\Debug\net6.0\state-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\bin\Debug\net6.0\state-pattern.pdb
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\obj\Debug\net6.0\state-pattern.csproj.AssemblyReference.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\obj\Debug\net6.0\state-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\obj\Debug\net6.0\state-pattern.AssemblyInfoInputs.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\obj\Debug\net6.0\state-pattern.AssemblyInfo.cs
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\obj\Debug\net6.0\state-pattern.csproj.CoreCompileInputs.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\obj\Debug\net6.0\state-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\obj\Debug\net6.0\refint\state-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\obj\Debug\net6.0\state-pattern.pdb
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\obj\Debug\net6.0\state-pattern.genruntimeconfig.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\state-pattern\obj\Debug\net6.0\ref\state-pattern.dll
