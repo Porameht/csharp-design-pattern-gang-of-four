@@ -1,0 +1,15 @@
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\obj\Debug\net6.0\interator-pattern.csproj.AssemblyReference.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\obj\Debug\net6.0\interator-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\obj\Debug\net6.0\interator-pattern.AssemblyInfoInputs.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\obj\Debug\net6.0\interator-pattern.AssemblyInfo.cs
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\obj\Debug\net6.0\interator-pattern.csproj.CoreCompileInputs.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\bin\Debug\net6.0\interator-pattern.exe
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\bin\Debug\net6.0\interator-pattern.deps.json
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\bin\Debug\net6.0\interator-pattern.runtimeconfig.json
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\bin\Debug\net6.0\interator-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\bin\Debug\net6.0\interator-pattern.pdb
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\obj\Debug\net6.0\interator-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\obj\Debug\net6.0\refint\interator-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\obj\Debug\net6.0\interator-pattern.pdb
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\obj\Debug\net6.0\interator-pattern.genruntimeconfig.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern\obj\Debug\net6.0\ref\interator-pattern.dll

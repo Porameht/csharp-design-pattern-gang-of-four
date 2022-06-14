@@ -7,4 +7,8 @@
     - change state of object follow status
     - open for extension
     - close for modification
-    
+     
+3. C# Design Patterns : Iterator Pattern
+    - list or array when object within change code will not change
+    - not loop access element but loop interface level
+    - user use application abstract level
