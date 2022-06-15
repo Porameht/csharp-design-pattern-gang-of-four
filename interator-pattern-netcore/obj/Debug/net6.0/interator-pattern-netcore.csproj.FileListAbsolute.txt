@@ -1,0 +1,15 @@
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\obj\Debug\net6.0\interator-pattern-netcore.csproj.AssemblyReference.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\obj\Debug\net6.0\interator-pattern-netcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\obj\Debug\net6.0\interator-pattern-netcore.AssemblyInfoInputs.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\obj\Debug\net6.0\interator-pattern-netcore.AssemblyInfo.cs
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\obj\Debug\net6.0\interator-pattern-netcore.csproj.CoreCompileInputs.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\bin\Debug\net6.0\interator-pattern-netcore.exe
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\bin\Debug\net6.0\interator-pattern-netcore.deps.json
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\bin\Debug\net6.0\interator-pattern-netcore.runtimeconfig.json
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\bin\Debug\net6.0\interator-pattern-netcore.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\bin\Debug\net6.0\interator-pattern-netcore.pdb
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\obj\Debug\net6.0\interator-pattern-netcore.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\obj\Debug\net6.0\refint\interator-pattern-netcore.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\obj\Debug\net6.0\interator-pattern-netcore.pdb
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\obj\Debug\net6.0\interator-pattern-netcore.genruntimeconfig.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\interator-pattern-netcore\obj\Debug\net6.0\ref\interator-pattern-netcore.dll

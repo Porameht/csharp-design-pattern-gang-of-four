@@ -12,3 +12,8 @@
     - list or array when object within change code will not change
     - not loop access element but loop interface level
     - user use application abstract level
+
+4. C# Design Patterns : Iterator Pattern by implement IEnumerable and IEnumerator netcore c#8.0 
+    - call property from for each loop
+    - using implement interface IEnumerable
+    - create IEnumerator nested class for access private property 
