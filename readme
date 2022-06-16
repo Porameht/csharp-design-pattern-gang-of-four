@@ -17,3 +17,7 @@
     - call property from for each loop
     - using implement interface IEnumerable
     - create IEnumerator nested class for access private property 
+
+5. C# Design Patterns : Strategy Pattern
+    - separate algorithm with object
+    - separate algorithm from class and shared algorithm between class

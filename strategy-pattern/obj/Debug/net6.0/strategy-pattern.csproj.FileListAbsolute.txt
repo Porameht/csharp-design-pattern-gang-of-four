@@ -1,0 +1,15 @@
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\bin\Debug\net6.0\strategy-pattern.exe
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\bin\Debug\net6.0\strategy-pattern.deps.json
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\bin\Debug\net6.0\strategy-pattern.runtimeconfig.json
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\bin\Debug\net6.0\strategy-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\bin\Debug\net6.0\strategy-pattern.pdb
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\obj\Debug\net6.0\strategy-pattern.csproj.AssemblyReference.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\obj\Debug\net6.0\strategy-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\obj\Debug\net6.0\strategy-pattern.AssemblyInfoInputs.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\obj\Debug\net6.0\strategy-pattern.AssemblyInfo.cs
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\obj\Debug\net6.0\strategy-pattern.csproj.CoreCompileInputs.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\obj\Debug\net6.0\strategy-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\obj\Debug\net6.0\refint\strategy-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\obj\Debug\net6.0\strategy-pattern.pdb
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\obj\Debug\net6.0\strategy-pattern.genruntimeconfig.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\strategy-pattern\obj\Debug\net6.0\ref\strategy-pattern.dll
