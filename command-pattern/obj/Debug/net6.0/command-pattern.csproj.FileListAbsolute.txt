@@ -1,0 +1,15 @@
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\bin\Debug\net6.0\command-pattern.exe
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\bin\Debug\net6.0\command-pattern.deps.json
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\bin\Debug\net6.0\command-pattern.runtimeconfig.json
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\bin\Debug\net6.0\command-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\bin\Debug\net6.0\command-pattern.pdb
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\obj\Debug\net6.0\command-pattern.csproj.AssemblyReference.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\obj\Debug\net6.0\command-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\obj\Debug\net6.0\command-pattern.AssemblyInfoInputs.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\obj\Debug\net6.0\command-pattern.AssemblyInfo.cs
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\obj\Debug\net6.0\command-pattern.csproj.CoreCompileInputs.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\obj\Debug\net6.0\command-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\obj\Debug\net6.0\refint\command-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\obj\Debug\net6.0\command-pattern.pdb
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\obj\Debug\net6.0\command-pattern.genruntimeconfig.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\command-pattern\obj\Debug\net6.0\ref\command-pattern.dll

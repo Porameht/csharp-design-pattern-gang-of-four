@@ -21,3 +21,6 @@
 5. C# Design Patterns : Strategy Pattern
     - separate algorithm with object
     - separate algorithm from class and shared algorithm between class
+
+6. C# Design Patterns : Command Pattern
+    - corrective problem about library 2 package designer of framework can not know class that design will used to work for?
