@@ -24,3 +24,7 @@
 
 6. C# Design Patterns : Command Pattern
     - corrective problem about library 2 package designer of framework can not know class that design will used to work for?
+    - use case undo redo in command pattern compare memento pattern
+        // resize 1080p => 720p 
+        // memento : Keep picture 1080p, 720p
+        // command : Keep resolution before, after

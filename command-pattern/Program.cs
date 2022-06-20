@@ -1,4 +1,6 @@
 ﻿using System;
+using command_pattern.UndoCommand;
+
 namespace command_pattern
 {
     class Program
@@ -15,7 +17,26 @@ namespace command_pattern
             compositeCommand.Commands.Add(addCustomerCommand);
             compositeCommand.Commands.Add(new AddOrderCommand(new OrderService()));
             button1.OnClick = compositeCommand;
-            button1.Click();
+            // button1.Click();
+
+            var htmlDocument = new HtmlDocument();
+            htmlDocument.Content="Hello Design Pattern!";
+            Console.WriteLine(htmlDocument);
+            
+            var history = new History();
+            var makeBoldCommand = new MakeBoldCommand(htmlDocument,history);
+            var boldButton = new Button();
+            boldButton.OnClick = makeBoldCommand;
+            boldButton.Click();
+            Console.WriteLine(htmlDocument);
+
+            var undoButton = new Button();
+            var undoCommand = new UndoCommand.UndoCommand(history);
+            undoButton.OnClick = undoCommand;
+            undoButton.Click();
+            Console.WriteLine(htmlDocument);
+            
+            
         }
     }
     
