@@ -28,3 +28,6 @@
         // resize 1080p => 720p 
         // memento : Keep picture 1080p, 720p
         // command : Keep resolution before, after
+
+7. C# Design Patterns : Template Method Pattern
+    - control writing method for the team write method same body such as logging before start method or cleanup after method work
