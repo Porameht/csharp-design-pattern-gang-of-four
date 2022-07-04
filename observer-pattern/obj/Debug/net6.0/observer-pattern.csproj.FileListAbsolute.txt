@@ -1,0 +1,15 @@
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\obj\Debug\net6.0\observer-pattern.csproj.AssemblyReference.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\obj\Debug\net6.0\observer-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\obj\Debug\net6.0\observer-pattern.AssemblyInfoInputs.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\obj\Debug\net6.0\observer-pattern.AssemblyInfo.cs
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\obj\Debug\net6.0\observer-pattern.csproj.CoreCompileInputs.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\bin\Debug\net6.0\observer-pattern.exe
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\bin\Debug\net6.0\observer-pattern.deps.json
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\bin\Debug\net6.0\observer-pattern.runtimeconfig.json
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\bin\Debug\net6.0\observer-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\bin\Debug\net6.0\observer-pattern.pdb
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\obj\Debug\net6.0\observer-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\obj\Debug\net6.0\refint\observer-pattern.dll
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\obj\Debug\net6.0\observer-pattern.pdb
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\obj\Debug\net6.0\observer-pattern.genruntimeconfig.cache
+C:\Users\poram\Documents\programming\csharp-design-pattern-gang-of-four\observer-pattern\obj\Debug\net6.0\ref\observer-pattern.dll
