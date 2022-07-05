@@ -9,4 +9,8 @@ namespace observer_pattern
     {
         void Update();
     }
+
+    public interface Observer<T>{
+        void Update(T value);
+    }
 }

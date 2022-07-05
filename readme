@@ -33,4 +33,4 @@
     - control writing method for the team write method same body such as logging before start method or cleanup after method work
 
 8. C# Design Patterns : Observer Pattern
-    - changing from object can shared value to object that response
+    - changing from object can shared value to object that response effect

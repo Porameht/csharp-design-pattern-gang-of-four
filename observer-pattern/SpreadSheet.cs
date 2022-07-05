@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace observer_pattern
 {
-    public class SpreadSheet : Observer 
+    public class SpreadSheet : Observer<int> 
     {
         public void Update()
         {
@@ -13,5 +13,33 @@ namespace observer_pattern
             
         }
        
+       public void Update(int value)
+       {
+        Console.WriteLine("Got notify from datasource : "+value);
+
+       }
+    }
+
+    public class PullingSpreadSheet : Observer
+    {
+        private DataSource _dataSource;
+
+
+        public PullingSpreadSheet(DataSource dataSource)
+        {
+            _dataSource = dataSource;
+        }
+
+
+        // public void Update()
+        // {
+        //     Console.WriteLine("Got notify from datasource: "+ _dataSource.Data);
+
+        // }
+
+        public void Update()
+       {
+            Console.WriteLine("Got notify from datasource : "+_dataSource.Data);
+       }
     }
 }
