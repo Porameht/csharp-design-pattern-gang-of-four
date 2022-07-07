@@ -34,3 +34,6 @@
 
 8. C# Design Patterns : Observer Pattern
     - changing from object can shared value to object that response effect
+
+9. C# Design Patterns : Observer Pattern net core 
+    - have interface support can create observer pattern by property push notification and increase property response data and can cancel response data 
